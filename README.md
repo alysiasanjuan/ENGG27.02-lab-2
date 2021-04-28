@@ -2,4 +2,5 @@
 Solves the three problems using the scientific computing language Julia on Jupyter Notebook.
 
 ### Status
-not yet started hehe
+Inadapt ko pa lang yung code ko noong 27 lect
+nagplot ako ng circle bcos???? nahirapan pa me dito
