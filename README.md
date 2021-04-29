@@ -2,4 +2,5 @@
 Solves the three problems using the scientific computing language Julia on Jupyter Notebook.
 
 ### Current Status
-- Inaaral ko pa idk how to do this
+- inadapt ko yung psuedocode ni sir
+- mygad gumana, need ko pa ipolish esp sa stopping criteria pero yay
