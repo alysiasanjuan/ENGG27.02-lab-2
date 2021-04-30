@@ -3,4 +3,4 @@ Solves the three problems using the scientific computing language Julia on Jupyt
 
 ### Current Status
 - inadapt ko yung psuedocode ni sir
-- mygad gumana, need ko pa ipolish esp sa stopping criteria pero yay
+- mygad gumana, need ko pa ipolish esp sa stopping criteria pero yay (right now parang di ko ginagamit hahu idk how)
